@@ -1,0 +1,8 @@
+{
+    "short_name": "AirHorner",
+    "name": "Kinlan's AirHorner of Infamy",
+    "start_url": "index.html?launcher=true",
+    "display": "fullscreen",
+    "orientation": "landscape"
+  }
+  
