@@ -20,7 +20,7 @@ function HTML5_loadscreen02(_graphics, _width, _height, _total, _current, _loadi
     var border = 1;
     var border_color = "rgb(128,128,128)";
     var bar_bg = "rgb(20,20,20)";
-    var progress_bg = "rgb(255,159,28)";
+    var progress_bg = "rgb(3,81,124)";
 // Background
     var window_bgd = "rgb(0,0,0)";
     var ls_height = _height;
